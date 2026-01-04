@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PIYUSH RANJAN</h1>
+<h1 align="center">Hi 👋, I'm Piyush Ranjan</h1>
 <h3 align="center">Pre Final Year B.Tech | Software Developer | ML & DSA Enthusiast</h3>
 - 🎓 Pre Final Year B.Tech in Computer Science & Engineering  
 - 💻 Interested in Software Development, DSA & Machine Learning  
@@ -25,8 +25,10 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/piyush-ranjan2005)
-[![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:arpiyush2005@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/piyush-ranjan2005)
+[![GMAIL](https://img.shields.io/badge/Gmail-red)](mailto:arpiyush2005@gmail.com)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/PIYUSHS47493435)
+
 
 ## ✨ Quote
 
