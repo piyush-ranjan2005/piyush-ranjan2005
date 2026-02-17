@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Ranjan</h1>
-<h3 align="center">Pre Final Year B.Tech | Software Developer | ML & DSA Enthusiast</h3>
+<h3 align="center">Pre Final Year B.Tech | Software Developer | AI Engineer | ML & DSA Enthusiast</h3>
 - 🎓 Pre Final Year B.Tech in Computer Science & Engineering  
 - 💻 Interested in Software Development, DSA & Machine Learning  
 - 🚀 Currently learning Backend Development & Cloud Basics  
