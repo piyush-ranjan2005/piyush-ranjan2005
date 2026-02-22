@@ -13,15 +13,39 @@
 - 🤖 Interested in Data Science, ML, and AI  
 - 📈 Believe in consistency and continuous learning
 
+
 ## 🛠 Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
-![Pandas](https://img.shields.io/badge/Pandas-purple)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-yellow)
-![GitHub](https://img.shields.io/badge/GitHub-black)
+### 👨‍💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data Analytics
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 📚 Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 📈 GitHub Stats
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-ranjan2005&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-ranjan2005&layout=compact&theme=tokyonight)
+
 
 ## 🌐 Connect with Me
 
