@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Ranjan</h1>
-<h3 align="center">Pre Final Year B.Tech | Software Developer | AI Engineer | ML & DSA Enthusiast</h3>
+<h3 align="center">Pre Final Year B.Tech | Software Developer | Data Analyst | AI Engineer | ML & DSA Enthusiast</h3>
 - 🎓 Pre Final Year B.Tech in Computer Science & Engineering  
 - 💻 Interested in Software Development, DSA & Machine Learning  
 - 🚀 Currently learning Backend Development & Cloud Basics  
@@ -26,25 +26,19 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 📚 Libraries
+### 📚 Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
-
-## 📈 GitHub Stats
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush-ranjan2005&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-ranjan2005&layout=compact&theme=tokyonight)
 
 
 ## 🌐 Connect with Me
