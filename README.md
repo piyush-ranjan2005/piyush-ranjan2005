@@ -3,7 +3,7 @@
 
 ---
 
-- 🎓 Pre Final Year B.Tech in **Computer Science & Engineering**
+- 🎓 Final Year B.Tech in **Computer Science & Engineering**
 - 💻 Interested in **Software Development, Data Analytics, DSA & Machine Learning**
 - 🚀 Currently learning **Backend Development & Cloud Basics**
 - 📌 Focused on **placements and real-world projects**
