@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Ranjan</h1>
-<h3 align="center">Pre Final Year B.Tech | Software Developer | Data Analyst | AI Engineer | ML & DSA Enthusiast</h3>
+<h3 align="center"> Final Year B.Tech | Software Developer | Data Analyst | AI Engineer | ML & DSA Enthusiast</h3>
 
 ---
 
